@@ -20,7 +20,7 @@ body {
 }
 
 header, nav, section, article, aside, footer {
-    border: 0.3125rem solid black; 
+    border: 0.2rem solid black; 
     padding: 0.625rem;
     color: white;
 }
@@ -73,5 +73,4 @@ aside {
     color: black;
     width: 25%; 
     height: 100%; 
-    border: 0.3125rem solid black; 
 }
